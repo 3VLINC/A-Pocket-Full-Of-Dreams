@@ -1,5 +1,6 @@
 <img src="/a-pocket-full-of-dreams.jpg" alt="A Pocketful of Dreams Book Cover" style="width:200"/>
 
+{% include buy-now.html %}
 $24.98
 
 # Entrepreneur extraordinaire, Nunzio Tumino’s drive to succeed was singular. He literally breathed the qualities that definitively separate the successful from the mega-successful.
