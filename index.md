@@ -1,5 +1,4 @@
 <img src="/a-pocket-full-of-dreams.jpg" alt="A Pocketful of Dreams Book Cover" style="width:200"/>
-{% include buy-button.html %}
 
 $24.98
 
