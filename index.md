@@ -1,4 +1,4 @@
-<img src="/a-pocket-full-of-dreams.jpg" alt="A Pocket Full of Dreams Book Cover" style="width:200"/>
+<img src="/a-pocket-full-of-dreams.jpg" alt="A Pocketful of Dreams Book Cover" style="width:200"/>
 {% include buy-button.html %}
 # Entrepreneur extraordinaire, Nunzio Tumino’s drive to succeed was singular. He literally breathed the qualities that definitively separate the successful from the mega-successful.
 
