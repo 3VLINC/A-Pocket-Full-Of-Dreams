@@ -1,4 +1,4 @@
-![A Pocket Full Of Dreams Cover](https://github.com/3VLINC/apocketfullofdreams/blob/gh-pages/a-pocket-full-of-dreams.jpg?raw=true)
+![A Pocket Full Of Dreams Cover](/a-pocket-full-of-dreams.jpg)
 
 You can use the [editor on GitHub](https://github.com/3VLINC/apocketfullofdreams/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
