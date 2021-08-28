@@ -1,5 +1,5 @@
 <img src="/a-pocket-full-of-dreams.jpg" alt="A Pocketful of Dreams Book Cover" style="width:200"/>
-<div style="margin: 0 auto 50px auto">
+<div style="margin: 0 auto 50px auto; width:280px">
 {% include buy-now.html %}
 </div>
 </div>
