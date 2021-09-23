@@ -9,6 +9,4 @@ The stories of how Nunzio got from there to here define the success he garnered 
 {% include buy-now.html %}
 </div>
 
-In thanks to Carmela Morrone Giardini for her continued support as well as guidance throughout this project.
-
-All proceeds from the sale of this book will be donated to [The Angel Foundation for Learning](https://angelfoundationforlearning.org/), to support student nutrition and other urgent needs so that all children have opportunities for success on their unique journey through life.
+All proceeds from the sale of a Pocketful of Dreams will be donated to [The Angel Foundation for Learning](https://angelfoundationforlearning.org/), to support student nutrition and other urgent needs so that all children have opportunities for success on their unique journey through life.
