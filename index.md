@@ -5,8 +5,5 @@ The stories of how Nunzio got from there to here define the success he garnered 
 
 
 <img src="/a-pocket-full-of-dreams.jpg" alt="A Pocketful of Dreams Book Cover" style=""/>
-<div style="margin: 0 auto 50px auto; width: 280px">
-{% include buy-now.html %}
-</div>
 
-All proceeds from the sale of a Pocketful of Dreams will be donated to [The Angel Foundation for Learning](https://angelfoundationforlearning.org/), to support student nutrition and other urgent needs so that all children have opportunities for success on their unique journey through life.
+Thanks for your support. The book is now sold out!
